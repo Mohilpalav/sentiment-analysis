@@ -1,5 +1,7 @@
 # reviews-sentiment-analysis
 
+***This application was developed as a project under CS-510 (Introduction to Artificial Intelligence) course at Drexel University.***
+
 Sentiment analysis of movie and actor reviews using N-gram model and Naïve-Bayes Classifier in python.
 
 We train the model using positive and negative reviews using an unigram model and use the model to classify whether a review is positive, negative or neutral using the Naïve-Bayes Classifier. We evaluate the model using macro averaging. The second model uses bigrams and a few preprocessing techniques to improve the overall accuracy.
