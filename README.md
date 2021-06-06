@@ -1,6 +1,6 @@
 # reviews-sentiment-analysis
 
-***This application was developed as a project under CS-510 (Introduction to Artificial Intelligence) course at Drexel University.***
+***This code was written as part of the coursework of the CS-510 (Introduction to Artificial Intelligence) course at Drexel University.***
 
 Sentiment analysis of movie and actor reviews using N-gram model and Naïve-Bayes Classifier in python.
 
