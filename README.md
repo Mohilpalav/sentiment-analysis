@@ -1,4 +1,4 @@
-# reviews-sentiment-analysis
+# Sentiment Analysis of movie reviews
 
 ***This code was written as part of the coursework of the CS-510 (Introduction to Artificial Intelligence) course at Drexel University.***
 
