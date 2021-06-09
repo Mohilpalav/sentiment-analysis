@@ -38,15 +38,15 @@ testing_data = iFileList
 # 	elif result == "negative" and rating == '1':
 # 		tn += 1
 
-# 	precision = tp / (tp + fp)
-# 	recall = tp / (tp + fn)
-# 	fmeasure = 2 * ((precision * recall) / (precision + recall))
-# 	accuracy = (tp + tn) / (tp + tn + fp + fn)
+# precision = tp / (tp + fp)
+# recall = tp / (tp + fn)
+# fmeasure = 2 * ((precision * recall) / (precision + recall))
+# accuracy = (tp + tn) / (tp + tn + fp + fn)
 
-# 	print("Precision :", precision)
-# 	print("Recall :", recall)
-# 	print("F-measure :", fmeasure)
-# 	print("Accuracy", accuracy)
+# print("Precision :", precision)
+# print("Recall :", recall)
+# print("F-measure :", fmeasure)
+# print("Accuracy", accuracy)
 
 ''' Since we have multiple classes, we shall use macroaverging to determine the metrics of each class.
 	We create a confusion matrix as follows:
